@@ -1,0 +1,187 @@
+{
+  "tokenColors": [
+    {
+      "settings": {
+        "background": "#22282A",
+        "foreground": "#F1F2F3"
+        // "foreground": "#000069"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#8472A5"
+      }
+    },
+    {
+      "name": "Function expression in string",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#6e07bd",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Foreground",
+      "scope": [
+        "keyword.operator.js",
+        "entity.name.tag",
+        "constant.other",
+        "source.php.embedded.line",
+        "meta.tag",
+        "declaration.tag"
+      ],
+      "settings": {
+        "fontStyle": "",
+        // "foreground": "#F1F2F3"
+        "foreground": "#000069"
+      }
+    },
+    {
+      "name": "Variable, String Link, Tag Name, FileName",
+      "scope": [
+        "variable",
+        "support.other.variable",
+        "string.other.link",
+        "entity.name.tag",
+        "entity.name.filename.find-in-files"
+      ],
+      "settings": {
+        // "foreground": "#6877DA"
+        "fontStyle": "bold",
+        "foreground": "#3b12c2"
+      }
+    },
+    {
+      "name": "Regular Expression, Links",
+      "scope": ["string.regexp", "meta.link"],
+      "settings": {
+        // "foreground": "#A8FFB9"
+        "foreground": "#ff7104",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+      "scope": [
+        "constant.numeric",
+        "support.constant",
+        "punctuation.section.embedded",
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        // "foreground": "#FF8080"
+        "foreground": "#ae0a0a"
+      }
+    },
+    {
+      "name": "Escaped Characters",
+      "scope": "constant.character.escape",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#7766f9"
+      }
+    },
+    {
+      "name": "Class, Support",
+      "scope": [
+        "entity.name.class",
+        "entity.name.type.class",
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        // "foreground": "#FFA500"
+        "foreground": "#6877DA",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "constant.character",
+        "entity.other.inherited-class",
+        "markup.heading",
+        "constant.numeric.line-number.match.find-in-files"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        // "foreground": "#93C763"
+        "foreground": "#328548"
+      }
+    },
+    {
+      "name": "variable",
+      "scope": ["entity.name.tag.localname", "entity.name.type.class"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#00B7FF"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": [
+        "keyword",
+        "storage",
+        "entity.name.tag.css",
+        "keyword.operator"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#d07907"
+        // "foreground": "#FFCD22"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "constant.language",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#ee0d98"
+        // "foreground": "#EF77EF"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "#963a46",
+        "fontStyle": "",
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Separator",
+      "scope": "meta.separator",
+      "settings": {
+        "background": "#82A3BF",
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "background": "#a082bd",
+        "fontStyle": "",
+        "foreground": "#ffffff"
+      }
+    }
+  ],
+  "colors": {
+    "editor.background": "#dfdfdf",
+    "editorCursor.foreground": "#19004f",
+    "editor.foreground": "#000069",
+    // "editor.foreground": "#F1F2F3",
+    "editorWhitespace.foreground": "#4B4E55",
+    // "editor.lineHighlightBackground": "#32363C",
+    "editor.lineHighlightBackground": "#efefef",
+    "editor.selectionBackground": "#82cddd"
+  },
+  "name": "NovaPrisma Light"
+}
