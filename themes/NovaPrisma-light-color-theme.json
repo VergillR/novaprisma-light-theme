@@ -174,7 +174,7 @@
     // "editor.foreground": "#F1F2F3",
     "editorWhitespace.foreground": "#4B4E55",
     // "editor.lineHighlightBackground": "#32363C",
-    "editor.lineHighlightBackground": "#6e07bd",
+    "editor.lineHighlightBackground": "#efefef",
     "editor.selectionBackground": "#82cddd"
   },
   "name": "NovaPrisma Light"
