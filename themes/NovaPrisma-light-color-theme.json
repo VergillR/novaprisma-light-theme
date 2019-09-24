@@ -1,13 +1,6 @@
 {
   "tokenColors": [
     {
-      "settings": {
-        "background": "#22282A",
-        "foreground": "#F1F2F3"
-        // "foreground": "#000069"
-      }
-    },
-    {
       "name": "Comment",
       "scope": "comment",
       "settings": {
@@ -119,8 +112,9 @@
       "name": "variable",
       "scope": ["entity.name.tag.localname", "entity.name.type.class"],
       "settings": {
-        "fontStyle": "",
-        "foreground": "#00B7FF"
+        "fontStyle": "bold",
+        // "foreground": "#00B7FF"
+        "foreground": "#1b53ec"
       }
     },
     {
@@ -150,26 +144,26 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#963a46",
+        // "background": "#963a46",
         "fontStyle": "",
-        "foreground": "#ffffff"
+        "foreground": "#6e07bd"
       }
     },
     {
       "name": "Separator",
       "scope": "meta.separator",
       "settings": {
-        "background": "#82A3BF",
-        "foreground": "#ffffff"
+        // "background": "#82A3BF",
+        "foreground": "#6e07bd"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#a082bd",
+        // "background": "#a082bd",
         "fontStyle": "",
-        "foreground": "#ffffff"
+        "foreground": "#6e07bd"
       }
     }
   ],
@@ -180,7 +174,7 @@
     // "editor.foreground": "#F1F2F3",
     "editorWhitespace.foreground": "#4B4E55",
     // "editor.lineHighlightBackground": "#32363C",
-    "editor.lineHighlightBackground": "#efefef",
+    "editor.lineHighlightBackground": "#6e07bd",
     "editor.selectionBackground": "#82cddd"
   },
   "name": "NovaPrisma Light"
