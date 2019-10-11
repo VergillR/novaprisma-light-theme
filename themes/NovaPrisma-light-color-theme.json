@@ -42,7 +42,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#2345A9"
+        "foreground": "#3b12c2"
       }
     },
     {
@@ -84,7 +84,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#3b12c2"
+        "foreground": "#2345A9"
       }
     },
     {
@@ -106,7 +106,6 @@
       "name": "variable",
       "scope": ["entity.name.tag.localname", "entity.name.type.class"],
       "settings": {
-        // "fontStyle": "",
         "foreground": "#3b12c2"
       }
     },
@@ -135,22 +134,23 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#ffffff"
+        "fontStyle": "bold",
+        "foreground": "#df79f1"
       }
     },
     {
       "name": "Separator",
       "scope": "meta.separator",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#414141"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#ffffff"
+        "fontStyle": "bold",
+        "foreground": "#636363"
       }
     }
   ],
