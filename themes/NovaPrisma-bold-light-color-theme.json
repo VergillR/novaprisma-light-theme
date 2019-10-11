@@ -6,7 +6,6 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#426f8d"
-        // "foreground": "#8472A5"
       }
     },
     {
@@ -73,6 +72,18 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#7766f9"
+      }
+    },
+    {
+      "name": "Class Dart, Support Dart",
+      "scope": [
+        "class.dart",
+        "entity.name.dart",
+        "support.type.dart",
+        "support.class.dart"
+      ],
+      "settings": {
+        "foreground": "#3b12c2"
       }
     },
     {

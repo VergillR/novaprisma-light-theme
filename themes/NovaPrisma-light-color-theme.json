@@ -69,6 +69,18 @@
       }
     },
     {
+      "name": "Class Dart, Support Dart",
+      "scope": [
+        "class.dart",
+        "entity.name.dart",
+        "support.type.dart",
+        "support.class.dart"
+      ],
+      "settings": {
+        "foreground": "#3b12c2"
+      }
+    },
+    {
       "name": "Class, Support",
       "scope": [
         "entity.name.class",
