@@ -16,6 +16,11 @@
         "label": "NovaPrisma Light",
         "uiTheme": "vs",
         "path": "./themes/NovaPrisma-light-color-theme.json"
+      },
+      {
+        "label": "NovaPrisma Bold Light",
+        "uiTheme": "vs",
+        "path": "./themes/NovaPrisma-bold-light-color-theme.json"
       }
     ]
   }
