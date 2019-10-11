@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "novaprisma light"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# NovaPrisma Light
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Light theme variation for VS, specifically designed for long programming sessions and being as less harmful and straining as possible to the eyes. Best used with the Fira Code font. The theme aims to be easily readable while maintaining an esthetically pleasant appearance.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Design
 
-**Enjoy!**
+Designed by Vergill Lemmert (NovaPrisma). Free to use for all. 2019 MIT License.

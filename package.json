@@ -1,7 +1,7 @@
 {
   "name": "novaprisma-light",
   "displayName": "NovaPrisma Light",
-  "description": "Adjusted theme variation based on Son of Obsidian. Light theme.",
+  "description": "Light theme variation for VS, specifically designed for long programming sessions while being as less harmful and straining as possible for the eyes. The theme aims to be easily readable while maintaining an esthetically pleasant appearance.",
   "version": "0.0.1",
   "publisher": "vergill",
   "engines": {

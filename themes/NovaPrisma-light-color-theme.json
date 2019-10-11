@@ -12,8 +12,8 @@
       "name": "Function expression in string",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#6e07bd",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#6e07bd"
       }
     },
     {
@@ -28,7 +28,6 @@
       ],
       "settings": {
         "fontStyle": "",
-        // "foreground": "#F1F2F3"
         "foreground": "#000069"
       }
     },
@@ -42,18 +41,16 @@
         "entity.name.filename.find-in-files"
       ],
       "settings": {
-        // "foreground": "#6877DA"
         "fontStyle": "bold",
-        "foreground": "#3b12c2"
+        "foreground": "#2345A9"
       }
     },
     {
       "name": "Regular Expression, Links",
       "scope": ["string.regexp", "meta.link"],
       "settings": {
-        // "foreground": "#A8FFB9"
-        "foreground": "#ff7104",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#ff7104"
       }
     },
     {
@@ -66,7 +63,6 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        // "foreground": "#FF8080"
         "foreground": "#ae0a0a"
       }
     },
@@ -87,9 +83,8 @@
         "support.class"
       ],
       "settings": {
-        // "foreground": "#FFA500"
-        "foreground": "#6877DA",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#3b12c2"
       }
     },
     {
@@ -104,7 +99,6 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        // "foreground": "#93C763"
         "foreground": "#328548"
       }
     },
@@ -112,9 +106,8 @@
       "name": "variable",
       "scope": ["entity.name.tag.localname", "entity.name.type.class"],
       "settings": {
-        "fontStyle": "bold",
-        // "foreground": "#00B7FF"
-        "foreground": "#1b53ec"
+        // "fontStyle": "",
+        "foreground": "#00B7FF"
       }
     },
     {
@@ -128,7 +121,6 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#d07907"
-        // "foreground": "#FFCD22"
       }
     },
     {
@@ -137,33 +129,28 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#ee0d98"
-        // "foreground": "#EF77EF"
       }
     },
     {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        // "background": "#963a46",
-        "fontStyle": "",
-        "foreground": "#6e07bd"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Separator",
       "scope": "meta.separator",
       "settings": {
-        // "background": "#82A3BF",
-        "foreground": "#6e07bd"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        // "background": "#a082bd",
         "fontStyle": "",
-        "foreground": "#6e07bd"
+        "foreground": "#ffffff"
       }
     }
   ],
@@ -171,9 +158,7 @@
     "editor.background": "#dfdfdf",
     "editorCursor.foreground": "#19004f",
     "editor.foreground": "#000069",
-    // "editor.foreground": "#F1F2F3",
     "editorWhitespace.foreground": "#4B4E55",
-    // "editor.lineHighlightBackground": "#32363C",
     "editor.lineHighlightBackground": "#efefef",
     "editor.selectionBackground": "#82cddd"
   },
