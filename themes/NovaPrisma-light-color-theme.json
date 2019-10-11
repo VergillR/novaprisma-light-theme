@@ -107,7 +107,7 @@
       "scope": ["entity.name.tag.localname", "entity.name.type.class"],
       "settings": {
         // "fontStyle": "",
-        "foreground": "#00B7FF"
+        "foreground": "#3b12c2"
       }
     },
     {
