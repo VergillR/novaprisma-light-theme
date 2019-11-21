@@ -1,4 +1,20 @@
 {
+  "name": "NovaPrisma Bold Light",
+  "type": "light",
+  "colors": {
+    "tab.activeForeground": "#ffffff",
+    "tab.activeBackground": "#000069",
+    "tab.inactiveForeground": "#000000",
+    "sideBar.foreground": "#000000",
+    "editor.background": "#dfdfdf",
+    "editorCursor.foreground": "#19004f",
+    "editor.foreground": "#000069",
+    "editorWhitespace.foreground": "#4B4E55",
+    "editor.lineHighlightBackground": "#efefef",
+    "editor.selectionBackground": "#82cddd",
+    "terminal.foreground": "#000000",
+    "menu.foreground": "#000000"
+  },
   "tokenColors": [
     {
       "name": "Comment",
@@ -165,14 +181,5 @@
         "foreground": "#636363"
       }
     }
-  ],
-  "colors": {
-    "editor.background": "#dfdfdf",
-    "editorCursor.foreground": "#19004f",
-    "editor.foreground": "#000069",
-    "editorWhitespace.foreground": "#4B4E55",
-    "editor.lineHighlightBackground": "#efefef",
-    "editor.selectionBackground": "#82cddd"
-  },
-  "name": "NovaPrisma Bold Light"
+  ]
 }
