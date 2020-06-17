@@ -13,7 +13,11 @@
     "editor.lineHighlightBackground": "#efefef",
     "editor.selectionBackground": "#82cddd",
     "terminal.foreground": "#000000",
-    "menu.foreground": "#000000"
+    "menu.foreground": "#000000",
+    "debugConsole.infoForeground": "#000069",
+    "debugConsole.errorForeground": "#ff1100",
+    "debugConsole.warningForeground": "#ff5500",
+    "debugConsole.sourceForeground": "#000000"
   },
   "tokenColors": [
     {
